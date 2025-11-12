@@ -4,7 +4,7 @@
 
 @section('content')
 <div class="container-fluid px-4" style="background-color: #f0f0f0; min-height: 100vh;">
-    <table>
+    <!-- <table>
         <thead>
             <tr style="border: #4caf50 1px solid;">
                 <th>Kolom 1</th>
@@ -17,7 +17,7 @@
                 <td>"aaa"</td>
             </tr>
         </tbody>
-    </table>
+    </table> -->
     <div class="row py-4">
         <div class="col-md-3">
             <div class="card text-white" style="background-color: #d4af37;">
